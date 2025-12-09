@@ -46,7 +46,4 @@ The Real-time Traffic Violation Detection System is an innovative end-to-end sol
 ## Note
 The system is optimized for GPU usage. For optimal performance, ensure that PyTorch with GPU support is installed.
 
----
-
-If you are interested in purchasing this product or would like more information, please feel free to contact me at hamody28522@gmail.com .
 
